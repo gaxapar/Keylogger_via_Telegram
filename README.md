@@ -1,6 +1,9 @@
+# Скриншоты
+
+### Приложения
 <img src="https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/Screenshot%20(46).png" width="300" />
 
-### Phone Screenshots
+### Скриншоты с телефона
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/phone_scr1" width="200" />
   <img src="https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/phone_scr2" width="200" />
