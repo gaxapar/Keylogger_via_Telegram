@@ -1,4 +1,6 @@
-![Screenshot1](https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/Screenshot1.png?raw=true)
+![Screenshot 46](https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/Screenshot%20(46).png)
+![Phone Screenshot 1](https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/phone_scr1)
+![Phone Screenshot 2](https://github.com/gaxapar/Keylogger_via_Telegram/blob/main/images/phone_scr2)
 
 # Инструкция по установке и использованию
 
